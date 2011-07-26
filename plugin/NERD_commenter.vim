@@ -293,7 +293,7 @@ let s:delimiterMap = {
     \ 'ps1': { 'left': '#' },
     \ 'psf': { 'left': '#' },
     \ 'ptcap': { 'left': '#' },
-    \ 'txt': { 'left': '# ' },
+    \ 'txt': { 'left': '#' },
     \ 'puppet': { 'left': '#' },
     \ 'python': { 'left': '#' },
     \ 'radiance': { 'left': '#' },
